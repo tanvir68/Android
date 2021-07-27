@@ -33,6 +33,7 @@
         android:layout_weight="6"
         android:id="@+id/userbtn"
         android:text="click it"
+        android:textColor="#000"
         android:layout_gravity="center_vertical"
         android:layout_margin="10dp"/>
     <Button
